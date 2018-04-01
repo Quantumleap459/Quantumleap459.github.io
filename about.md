@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-THis website was made using Codecademy, the premier site for coding.
+This website was made using Codecademy, the premier site for coding.
 
 
 Raw Information:
