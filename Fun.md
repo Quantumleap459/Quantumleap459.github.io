@@ -5,4 +5,5 @@ permalink: /fun/
 published: true
 ---
 Fun Stuff.
-![]({{site.baseurl}}//cat's_schrodinger.png)
+![doge.jpg]({{site.baseurl}}/doge.jpg)
+
