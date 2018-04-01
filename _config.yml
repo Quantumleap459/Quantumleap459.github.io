@@ -10,7 +10,7 @@ title: Testing Website for Git from Github.com
 email: eric22154@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   If you are seeing this, that means I can finally edit things on Github! Go use it at github.com!
-baseurl: "/testing" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  Quantumleap459
