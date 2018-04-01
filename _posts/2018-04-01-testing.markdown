@@ -2,6 +2,6 @@
 layout: post
 title:  "Testing..."
 date:   2018-04-01 15:59:55 +0000
-categories: jekyll update
+categories: post
 ---
 Testing the posting feature!
